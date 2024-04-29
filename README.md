@@ -8,3 +8,6 @@
 width="200"
     hspace="10" vspace="10">](https://github.com/anettaj/CODSOFT/assets/58222128/f15a0d74-1799-49a3-b0eb-405f5e5a281b)
 
+[<img src="https://github.com/anettaj/CODSOFT/assets/58222128/30fcc952-e08d-430f-93c1-ae644dede76a" align="center"
+width="200"
+    hspace="10" vspace="10">](https://github.com/anettaj/CODSOFT/assets/58222128/30fcc952-e08d-430f-93c1-ae644dede76a)
